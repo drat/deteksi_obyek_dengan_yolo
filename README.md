@@ -1,1 +1,1 @@
-# yolo_custom_object_detector
+# Deteksi Obyek dengan YOLO
